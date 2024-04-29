@@ -11,7 +11,7 @@
       "schematics": {},
       "architect": {
         "build": {
-          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "builder": "@angular-devkit/build-angular:builder",
           "options": {
             "aot": true,
             "outputPath": "dist/ngx-bootstrap-slider-app",
